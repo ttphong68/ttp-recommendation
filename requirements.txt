@@ -1,6 +1,3 @@
-streamlit
-pandas
-numpy
-fuzzywuzzy
-surprise
-sklearn
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bb6fd732450d66c5e7a83e360143c3c3cb1bae689fc2ab2d12a2084a77449cd
+size 145
